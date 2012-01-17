@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Creates test fixtures from data in the database.}
   s.email = %q{boss AT topfunky.com}
   s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.txt"]
-  s.files = ["CHANGELOG", "History.txt", "MIT-LICENSE", "Manifest.txt", "README.txt", "Rakefile", "about.yml", "init.rb", "lib/ar_fixtures.rb", "lib/tasks/ar_fixtures.rb", "test/ar_fixtures_test.rb", "test/database.yml", "test/fixtures/beer.rb", "test/fixtures/beers.yml", "test/fixtures/beers_drunkards.yml", "test/fixtures/drunkard.rb", "test/fixtures/drunkards.yml", "test/fixtures/glass.rb", "test/fixtures/glasses.yml", "test/schema.rb", "test/test_helper.rb"]
+  s.files = ["CHANGELOG", "History.txt", "MIT-LICENSE", "Manifest.txt", "README.txt", "Rakefile", "about.yml", "init.rb", "lib/ar_fixtures.rb", "lib/tasks/ar_fixtures.rake", "test/ar_fixtures_test.rb", "test/database.yml", "test/fixtures/beer.rb", "test/fixtures/beers.yml", "test/fixtures/beers_drunkards.yml", "test/fixtures/drunkard.rb", "test/fixtures/drunkards.yml", "test/fixtures/glass.rb", "test/fixtures/glasses.yml", "test/schema.rb", "test/test_helper.rb"]
   s.has_rdoc = true
   s.homepage = %q{http://rubyforge.org/projects/seattlerb}
   s.rdoc_options = ["--main", "README.txt"]
